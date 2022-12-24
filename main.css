@@ -29,7 +29,10 @@ header li {
 
 header a {
     text-decoration: underline;
-    color: #555;
+    color: whitesmoke;
+}
+header a:hover{
+    color: #FF6E31;
 }
 header img{
     width: 70%;
@@ -40,6 +43,7 @@ header img{
 .container{
     position: relative;
     text-align: center;
+    margin-bottom: 100px;
 }
 .container-center{
     background-color: black;
