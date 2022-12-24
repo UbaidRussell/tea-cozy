@@ -54,3 +54,13 @@ header img{
     left: 50%;
     transform: translate(-50%, -50%);
   }
+  /*Tea of the month section*/
+  .container-images{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  .image-items img{
+    width: 300px;
+    height: 200px;
+  }
