@@ -31,3 +31,8 @@ header a {
     text-decoration: underline;
     color: #555;
 }
+header img{
+    width: 70%;
+    position: relative;
+    right: 75px;
+}
