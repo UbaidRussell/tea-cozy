@@ -89,7 +89,7 @@ header img{
 .information-item{
     margin: 40px;
     width: 300px;
-    background-color: black;
+    background-color: rgb(149, 0, 0);
 }
 /*Footer*/
 .copyright{
