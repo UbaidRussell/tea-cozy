@@ -43,7 +43,6 @@ header img{
 .container{
     position: relative;
     text-align: center;
-    margin-bottom: 100px;
 }
 .container-center{
     background-color: black;
@@ -97,4 +96,23 @@ footer{
     padding: 20px 50px;
     border-top: 1px solid seashell;
     height:69px;
+}
+
+@media only screen and (min-width:320px) and (max-width: 481px)  { /* smartphones, iPhone, portrait 480x320 phones */ 
+    nav{
+        display: none;
+    }
+   .mission-image{
+        min-width:300px;
+   }
+   .container-center{
+    position: relative;
+    font-size: 1.75rem;
+    width: 300px;
+   }
+   .container-para{
+         font-size: 1.5rem;
+         text-align: center;
+
+   }
 }
