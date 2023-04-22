@@ -103,6 +103,7 @@ footer{
         display: none;
     }
    .mission-image{
+        margin-top: 20px;
         min-width:300px;
    }
    .container-center{
