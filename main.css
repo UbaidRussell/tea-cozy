@@ -115,4 +115,11 @@ footer{
          text-align: center;
 
    }
+   .location-container-information{
+    flex-wrap: wrap;
+   }
+   .footer{
+    position:relative;
+    margin-top: 300px;
+   }
 }
