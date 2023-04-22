@@ -124,6 +124,8 @@ header img{
     flex-wrap: wrap;
     position:relative;
     margin-top: 300px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
     justify-content: space-evenly;
    }
    .location-image{
