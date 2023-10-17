@@ -98,7 +98,7 @@ header img{
     height:69px;
 }
 
-@media only screen and (min-width:320px) and (max-width: 481px)  { /* smartphones, iPhone, portrait 480x320 phones */ 
+@media only screen and (min-width:300px) and (max-width: 500px)  { /* smartphones, iPhone, portrait 480x320 phones */ 
     nav{
         display: none;
     }
